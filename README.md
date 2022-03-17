@@ -1,7 +1,7 @@
 # GHDomains
 Automatically categorising GitHub repositories by application domain.
 
-Project Description
+### Project Description
 Aim: Develop a machine learning solution for classifying GitHub projects by their domain, based on an existing annotated dataset.
 
 Overview
